@@ -1,0 +1,2 @@
+# Self-Cleaning-Camera-EN-
+To create a Self-Cleaning Camera with Python 2 and SimpleCV with a Raspberry Pi Camera. Our algorithm is doing the average of white pixels / samples / edgers/ lines so you can make many cameras like Action Camera /  CCTV Camera / a real Camera and much more. However you will need a step by step motor and rollable plastic film but you will maybe need a 3D printer to protect more your camera and assembly it.
